@@ -26,3 +26,10 @@ var ovaltine = require("./index.js"),
 // The offset or "pin" is set with the second arguement
 console.log(ovaltine.decrypt(encrypt, 2));
 ```
+
+Installation
+------------
+
+``` bash
+  $ [sudo] npm install ovaltine --save
+```
