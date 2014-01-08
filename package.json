@@ -1,6 +1,6 @@
 {
   "name": "ovaltine",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A library for your Little Orphan Annie Secret decoder ring.",
   "main": "index.js",
   "keywords": [
@@ -13,7 +13,6 @@
     "ring"
   ],
   "author": "Fred Morlock",
-  "private": true,
   "scripts": {
     "test": "node test.js"
   },
