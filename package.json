@@ -1,6 +1,6 @@
 {
   "name": "ovaltine",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A library for your Little Orphan Annie Secret decoder ring.",
   "main": "index.js",
   "keywords": [
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/FrederickGeek8/ovaltine.js/issues"
   },
-  "homepage": "https://github.com/FrederickGeek8/ovaltine.js"
+  "homepage": "http://frederickgeek8.github.io/ovaltine.js/"
 }
